@@ -1,4 +1,4 @@
-# 🤖 Robotis — Smart Bluetooth-Controlled Robot
+# 🤖 Robotis — Smart Bluetooth-Controlled Robot.
 
 Robotis is an Arduino-based smart robotic system that can be controlled wirelessly through a mobile application. The robot combines **Bluetooth-based control, obstacle detection, and environmental monitoring** into a single embedded system.
 
